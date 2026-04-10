@@ -2,7 +2,7 @@
 
 This is a 365 Days Program to Upskill and Get Some useful projects on your Resume.
 
-By the end of this Program, you will have 12 useful projects.
+By the end of this Program, you will have 15 useful projects.
 
 # Projects
 
